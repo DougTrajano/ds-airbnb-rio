@@ -37,10 +37,10 @@ A seleção dos modelos ficou em `Logistic Regression` e `Random Forest`, o mode
 
 Para validar o modelo foi utilizado a técnica de validação cruzada em 5 partes. Segue abaixo os resultados obtidos:
 
-- Logistic Regression
-> Accuracy (cross-validation): 0.88 (+/- 0.08)
-- Random Forest
-> Accuracy (cross-validation): 0.97 (+/- 0.01)
+Logistic Regression
+- Accuracy (cross-validation): 0.88 (+/- 0.08)
+Random Forest
+- Accuracy (cross-validation): 0.97 (+/- 0.01)
 
 # Evidências de que o modelo é suficientemente bom
 > Quais evidências você possui de que seu modelo é suficientemente bom?
