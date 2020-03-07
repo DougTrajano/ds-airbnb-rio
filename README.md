@@ -46,3 +46,7 @@ Para validar o modelo foi utilizado a técnica de validação cruzada em 5 parte
 > Quais evidências você possui de que seu modelo é suficientemente bom?
 
 O modelo apresentou um bom resultado no conjunto de métricas, conforme é possível ver abaixo, porém, acredito que seria necessário obter um equilíbrio melhor das classes antes de colocá-lo em produção. As classes `Shared room` e `Hotel room` representam juntas, 3% do dataset. Um valor insignificante se comparado com a classe `Private room` que possui 71% do dataset.
+
+**Random Forest - Classification report**
+
+![](https://github.com/DougTrajano/ds_airbnb_rio/blob/master/images/classification_report.png)
