@@ -51,3 +51,7 @@ O modelo apresentou um bom resultado no conjunto de métricas, conforme é poss�
 **Random Forest - Classification report**
 
 ![](https://github.com/DougTrajano/ds_airbnb_rio/blob/master/images/classification_report.png)
+
+---
+
+*Tempo gasto no desenvolvimento deste projeto: 12h30*
