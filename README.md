@@ -1,6 +1,6 @@
 # Airbnb - Rio de Janeiro
 
-<img src="https://zeenea.com/wp-content/uploads/2019/09/data-portal-airbnb.jpg"/>
+![](https://github.com/DougTrajano/ds_airbnb_rio/blob/master/images/airbnb_data.jpg)
 
 Projeto de Data Science com base nos dados do Airbnb (Rio de Janeiro).
 
