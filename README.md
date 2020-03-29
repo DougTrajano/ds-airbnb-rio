@@ -1,5 +1,7 @@
 # Airbnb - Rio de Janeiro
 
+<img src="https://zeenea.com/wp-content/uploads/2019/09/data-portal-airbnb.jpg"/>
+
 Projeto de Data Science com base nos dados do Airbnb (Rio de Janeiro).
 
 O objetivo deste estudo é desenvolver um modelo capaz de atuar em um dos tópicos abaixo:
